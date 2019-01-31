@@ -1,0 +1,1858 @@
+fileFormatVersion: 2
+guid: 7d3de44ae6cf75544ae3ef6155b82a4e
+timeCreated: 1491232471
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idle_IceClimber
+    21300002: Enemy_1
+    21300004: KEITHCHARACTERS_0
+    21300006: KEITHCHARACTERS_1
+    21300008: KEITHCHARACTERS_2
+    21300010: KEITHCHARACTERS_3
+    21300012: KEITHCHARACTERS_4
+    21300014: KEITHCHARACTERS_5
+    21300016: KEITHCHARACTERS_6
+    21300018: Enemy_2
+    21300020: Enemy_3
+    21300022: KEITHCHARACTERS_7
+    21300024: KEITHCHARACTERS_8
+    21300026: KEITHCHARACTERS_9
+    21300028: KEITHCHARACTERS_10
+    21300030: KEITHCHARACTERS_11
+    21300032: KEITHCHARACTERS_12
+    21300034: KEITHCHARACTERS_13
+    21300036: KEITHCHARACTERS_14
+    21300038: KEITHCHARACTERS_15
+    21300040: KEITHCHARACTERS_16
+    21300042: KEITHCHARACTERS_17
+    21300044: KEITHCHARACTERS_18
+    21300046: KEITHCHARACTERS_19
+    21300048: KEITHCHARACTERS_20
+    21300050: KEITHCHARACTERS_21
+    21300052: KEITHCHARACTERS_22
+    21300054: KEITHCHARACTERS_23
+    21300056: KEITHCHARACTERS_24
+    21300058: KEITHCHARACTERS_25
+    21300060: KEITHCHARACTERS_26
+    21300062: KEITHCHARACTERS_27
+    21300064: KEITHCHARACTERS_28
+    21300066: KEITHCHARACTERS_29
+    21300068: KEITHCHARACTERS_30
+    21300070: KEITHCHARACTERS_31
+    21300072: KEITHCHARACTERS_32
+    21300074: KEITHCHARACTERS_33
+    21300076: KEITHCHARACTERS_34
+    21300078: KEITHCHARACTERS_35
+    21300080: KEITHCHARACTERS_36
+    21300082: KEITHCHARACTERS_37
+    21300084: KEITHCHARACTERS_38
+    21300086: KEITHCHARACTERS_39
+    21300088: KEITHCHARACTERS_40
+    21300090: KEITHCHARACTERS_41
+    21300092: KEITHCHARACTERS_42
+    21300094: KEITHCHARACTERS_43
+    21300096: KEITHCHARACTERS_44
+    21300098: KEITHCHARACTERS_45
+    21300100: KEITHCHARACTERS_46
+    21300102: KEITHCHARACTERS_47
+    21300104: KEITHCHARACTERS_48
+    21300106: KEITHCHARACTERS_49
+    21300108: KEITHCHARACTERS_50
+    21300110: KEITHCHARACTERS_51
+    21300112: KEITHCHARACTERS_52
+    21300114: KEITHCHARACTERS_53
+    21300116: KEITHCHARACTERS_54
+    21300118: KEITHCHARACTERS_55
+    21300120: KEITHCHARACTERS_56
+    21300122: KEITHCHARACTERS_57
+    21300124: KEITHCHARACTERS_58
+    21300126: KEITHCHARACTERS_59
+    21300128: KEITHCHARACTERS_60
+    21300130: KEITHCHARACTERS_61
+    21300132: KEITHCHARACTERS_62
+    21300134: KEITHCHARACTERS_63
+    21300136: KEITHCHARACTERS_64
+    21300138: KEITHCHARACTERS_65
+    21300140: KEITHCHARACTERS_66
+    21300142: KEITHCHARACTERS_67
+    21300144: KEITHCHARACTERS_68
+    21300146: KEITHCHARACTERS_69
+    21300148: KEITHCHARACTERS_70
+    21300150: KEITHCHARACTERS_71
+    21300152: KEITHCHARACTERS_72
+    21300154: KEITHCHARACTERS_73
+    21300156: KEITHCHARACTERS_74
+    21300158: KEITHCHARACTERS_75
+    21300160: KEITHCHARACTERS_76
+    21300162: KEITHCHARACTERS_77
+    21300164: KEITHCHARACTERS_78
+    21300166: KEITHCHARACTERS_79
+    21300168: KEITHCHARACTERS_80
+    21300170: KEITHCHARACTERS_81
+    21300172: KEITHCHARACTERS_82
+    21300174: KEITHCHARACTERS_83
+    21300176: KEITHCHARACTERS_84
+    21300178: KEITHCHARACTERS_85
+    21300180: KEITHCHARACTERS_86
+    21300182: KEITHCHARACTERS_87
+    21300184: KEITHCHARACTERS_88
+    21300186: KEITHCHARACTERS_89
+    21300188: KEITHCHARACTERS_90
+    21300190: KEITHCHARACTERS_91
+    21300192: KEITHCHARACTERS_92
+    21300194: KEITHCHARACTERS_93
+    21300196: KEITHCHARACTERS_94
+    21300198: KEITHCHARACTERS_95
+    21300200: KEITHCHARACTERS_96
+    21300202: KEITHCHARACTERS_97
+    21300204: KEITHCHARACTERS_98
+    21300206: KEITHCHARACTERS_99
+    21300208: KEITHCHARACTERS_100
+    21300210: KEITHCHARACTERS_101
+    21300212: KEITHCHARACTERS_102
+    21300214: KEITHCHARACTERS_103
+    21300216: KEITHCHARACTERS_104
+    21300218: KEITHCHARACTERS_105
+    21300220: KEITHCHARACTERS_106
+    21300222: KEITHCHARACTERS_107
+    21300224: KEITHCHARACTERS_108
+    21300226: KEITHCHARACTERS_109
+    21300228: KEITHCHARACTERS_110
+    21300230: KEITHCHARACTERS_111
+    21300232: KEITHCHARACTERS_112
+    21300234: KEITHCHARACTERS_113
+    21300236: KEITHCHARACTERS_114
+    21300238: KEITHCHARACTERS_115
+    21300240: KEITHCHARACTERS_116
+    21300242: KEITHCHARACTERS_117
+    21300244: KEITHCHARACTERS_118
+    21300246: KEITHCHARACTERS_119
+    21300248: KEITHCHARACTERS_120
+    21300250: KEITHCHARACTERS_121
+    21300252: KEITHCHARACTERS_122
+    21300254: KEITHCHARACTERS_123
+    21300256: KEITHCHARACTERS_124
+    21300258: KEITHCHARACTERS_125
+    21300260: KEITHCHARACTERS_126
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 60
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 60
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 60
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 60
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 60
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 60
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 66
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 60
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 61
+        width: 21
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 63
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 67
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 60
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 60
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 60
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 60
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_15
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 63
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 67
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 60
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 68
+        width: 13
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 60
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_20
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 60
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_21
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 60
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_22
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 60
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 60
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_24
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 60
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_25
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 60
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_26
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 60
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_27
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 60
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 43
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 43
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 43
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 43
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 43
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_34
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 43
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 43
+        width: 8
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 43
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 43
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 48
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_39
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 47
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_41
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 48
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 47
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_43
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 47
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_44
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 43
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_45
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 43
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_46
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 43
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_47
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 43
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_48
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 43
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_49
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_50
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_51
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_52
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_53
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_54
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_55
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_56
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_57
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_58
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_59
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_60
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_61
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_62
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_63
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_64
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_65
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_66
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 51
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_68
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 35
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_69
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 35
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 26
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_71
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 26
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_72
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 26
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_73
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 26
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_74
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 10
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_75
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 10
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_76
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 10
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_77
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 10
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_78
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 26
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_79
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 26
+        width: 32
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_80
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 26
+        width: 32
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_81
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 26
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_82
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 26
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_83
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 26
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_84
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 26
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_85
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 26
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_86
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 26
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_87
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 26
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_88
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 26
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_89
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 26
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_90
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 26
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_91
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 18
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_92
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 18
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_93
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 18
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_94
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 18
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_95
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 18
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_96
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 18
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_97
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_98
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_99
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_100
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 13
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_101
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_102
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_103
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_104
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_105
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_106
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_107
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_108
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_109
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_110
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_111
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_112
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_113
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_114
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_115
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_116
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_117
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_118
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_119
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_120
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_121
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_122
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_123
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_124
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_125
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KEITHCHARACTERS_126
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
